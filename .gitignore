@@ -1,0 +1,21 @@
+# binaries
+/cc
+/cinemas
+*.exe
+
+# go
+/vendor/
+coverage.out
+
+# build and OS artifacts
+/dist/
+.DS_Store
+
+# local agent and research files
+/.claude/
+/.codex/
+/AGENTS.md
+/CLAUDE.md
+/DISCOVERY.md
+/sample-pricing.json
+/sample-seatchart.json

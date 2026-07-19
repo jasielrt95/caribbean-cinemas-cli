@@ -1,0 +1,1773 @@
+[
+  {
+    "siteId": "26",
+    "screenId": "754968",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 94
+  },
+  {
+    "siteId": "26",
+    "screenId": "754967",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 120
+  },
+  {
+    "siteId": "26",
+    "screenId": "754966",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 159
+  },
+  {
+    "siteId": "26",
+    "screenId": "754965",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 152
+  },
+  {
+    "siteId": "26",
+    "screenId": "754964",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 212
+  },
+  {
+    "siteId": "26",
+    "screenId": "754963",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 416
+  },
+  {
+    "siteId": "2",
+    "screenId": "754812",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 219
+  },
+  {
+    "siteId": "2",
+    "screenId": "754811",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 188
+  },
+  {
+    "siteId": "2",
+    "screenId": "754810",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 164
+  },
+  {
+    "siteId": "2",
+    "screenId": "754809",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 196
+  },
+  {
+    "siteId": "2",
+    "screenId": "754808",
+    "name": "Screen 6 4De",
+    "number": 6,
+    "seatCount": 144
+  },
+  {
+    "siteId": "2",
+    "screenId": "754784",
+    "name": "Screen 5 Cine Kids",
+    "number": 5,
+    "seatCount": 113
+  },
+  {
+    "siteId": "2",
+    "screenId": "754783",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 147
+  },
+  {
+    "siteId": "2",
+    "screenId": "754782",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 109
+  },
+  {
+    "siteId": "2",
+    "screenId": "754781",
+    "name": "Screen 2 CXC",
+    "number": 2,
+    "seatCount": 248
+  },
+  {
+    "siteId": "2",
+    "screenId": "754780",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 88
+  },
+  {
+    "siteId": "27",
+    "screenId": "754982",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 187
+  },
+  {
+    "siteId": "27",
+    "screenId": "754981",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 169
+  },
+  {
+    "siteId": "27",
+    "screenId": "754980",
+    "name": "Screen 8 CXC",
+    "number": 8,
+    "seatCount": 355
+  },
+  {
+    "siteId": "27",
+    "screenId": "754979",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 345
+  },
+  {
+    "siteId": "27",
+    "screenId": "754978",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 343
+  },
+  {
+    "siteId": "27",
+    "screenId": "754977",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 310
+  },
+  {
+    "siteId": "27",
+    "screenId": "754976",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 313
+  },
+  {
+    "siteId": "27",
+    "screenId": "754975",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 172
+  },
+  {
+    "siteId": "27",
+    "screenId": "754974",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 166
+  },
+  {
+    "siteId": "27",
+    "screenId": "754973",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 187
+  },
+  {
+    "siteId": "39",
+    "screenId": "755099",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 301
+  },
+  {
+    "siteId": "39",
+    "screenId": "755098",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 215
+  },
+  {
+    "siteId": "39",
+    "screenId": "755097",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 123
+  },
+  {
+    "siteId": "39",
+    "screenId": "755096",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 110
+  },
+  {
+    "siteId": "39",
+    "screenId": "755095",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 110
+  },
+  {
+    "siteId": "39",
+    "screenId": "755094",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 110
+  },
+  {
+    "siteId": "39",
+    "screenId": "755093",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 109
+  },
+  {
+    "siteId": "28",
+    "screenId": "754990",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 49
+  },
+  {
+    "siteId": "28",
+    "screenId": "754989",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 49
+  },
+  {
+    "siteId": "28",
+    "screenId": "754988",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 48
+  },
+  {
+    "siteId": "28",
+    "screenId": "754987",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 115
+  },
+  {
+    "siteId": "28",
+    "screenId": "754986",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 116
+  },
+  {
+    "siteId": "28",
+    "screenId": "754985",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 74
+  },
+  {
+    "siteId": "28",
+    "screenId": "754984",
+    "name": "Screen 2 Screen X",
+    "number": 2,
+    "seatCount": 120
+  },
+  {
+    "siteId": "28",
+    "screenId": "754983",
+    "name": "Screen 1 CXC",
+    "number": 1,
+    "seatCount": 248
+  },
+  {
+    "siteId": "29",
+    "screenId": "755000",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 171
+  },
+  {
+    "siteId": "29",
+    "screenId": "754999",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 162
+  },
+  {
+    "siteId": "29",
+    "screenId": "754998",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 210
+  },
+  {
+    "siteId": "29",
+    "screenId": "754997",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 208
+  },
+  {
+    "siteId": "29",
+    "screenId": "754996",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 229
+  },
+  {
+    "siteId": "29",
+    "screenId": "754995",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 208
+  },
+  {
+    "siteId": "29",
+    "screenId": "754994",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 304
+  },
+  {
+    "siteId": "29",
+    "screenId": "754993",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 296
+  },
+  {
+    "siteId": "43",
+    "screenId": "755687",
+    "name": "Screen 14",
+    "number": 14,
+    "seatCount": 127
+  },
+  {
+    "siteId": "43",
+    "screenId": "755683",
+    "name": "Screen 13",
+    "number": 13,
+    "seatCount": 155
+  },
+  {
+    "siteId": "43",
+    "screenId": "755679",
+    "name": "Screen 12",
+    "number": 12,
+    "seatCount": 141
+  },
+  {
+    "siteId": "43",
+    "screenId": "755672",
+    "name": "Screen 11",
+    "number": 11,
+    "seatCount": 244
+  },
+  {
+    "siteId": "43",
+    "screenId": "755142",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 294
+  },
+  {
+    "siteId": "43",
+    "screenId": "755141",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 297
+  },
+  {
+    "siteId": "43",
+    "screenId": "755140",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 385
+  },
+  {
+    "siteId": "43",
+    "screenId": "755139",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 307
+  },
+  {
+    "siteId": "43",
+    "screenId": "755138",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 198
+  },
+  {
+    "siteId": "43",
+    "screenId": "755137",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 167
+  },
+  {
+    "siteId": "30",
+    "screenId": "755012",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 118
+  },
+  {
+    "siteId": "30",
+    "screenId": "755011",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 77
+  },
+  {
+    "siteId": "30",
+    "screenId": "755010",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 77
+  },
+  {
+    "siteId": "30",
+    "screenId": "755009",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 119
+  },
+  {
+    "siteId": "30",
+    "screenId": "755008",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 153
+  },
+  {
+    "siteId": "30",
+    "screenId": "755007",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 136
+  },
+  {
+    "siteId": "30",
+    "screenId": "755006",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 248
+  },
+  {
+    "siteId": "30",
+    "screenId": "755005",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 207
+  },
+  {
+    "siteId": "30",
+    "screenId": "755004",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 174
+  },
+  {
+    "siteId": "30",
+    "screenId": "755003",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 301
+  },
+  {
+    "siteId": "31",
+    "screenId": "755018",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 48
+  },
+  {
+    "siteId": "31",
+    "screenId": "755017",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 146
+  },
+  {
+    "siteId": "31",
+    "screenId": "755016",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 118
+  },
+  {
+    "siteId": "31",
+    "screenId": "755015",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 98
+  },
+  {
+    "siteId": "31",
+    "screenId": "755014",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 98
+  },
+  {
+    "siteId": "31",
+    "screenId": "755013",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 168
+  },
+  {
+    "siteId": "32",
+    "screenId": "755028",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 56
+  },
+  {
+    "siteId": "32",
+    "screenId": "755027",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 60
+  },
+  {
+    "siteId": "32",
+    "screenId": "755026",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 131
+  },
+  {
+    "siteId": "32",
+    "screenId": "755025",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 99
+  },
+  {
+    "siteId": "32",
+    "screenId": "755024",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 98
+  },
+  {
+    "siteId": "32",
+    "screenId": "755023",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 93
+  },
+  {
+    "siteId": "33",
+    "screenId": "755038",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 129
+  },
+  {
+    "siteId": "33",
+    "screenId": "755037",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 106
+  },
+  {
+    "siteId": "33",
+    "screenId": "755036",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 107
+  },
+  {
+    "siteId": "33",
+    "screenId": "755035",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 103
+  },
+  {
+    "siteId": "33",
+    "screenId": "755034",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 129
+  },
+  {
+    "siteId": "33",
+    "screenId": "755033",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 233
+  },
+  {
+    "siteId": "34",
+    "screenId": "755046",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 191
+  },
+  {
+    "siteId": "34",
+    "screenId": "755045",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 232
+  },
+  {
+    "siteId": "34",
+    "screenId": "755044",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 232
+  },
+  {
+    "siteId": "34",
+    "screenId": "755043",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 254
+  },
+  {
+    "siteId": "35",
+    "screenId": "755669",
+    "name": "Screen 11",
+    "number": 11,
+    "seatCount": 109
+  },
+  {
+    "siteId": "35",
+    "screenId": "755062",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 86
+  },
+  {
+    "siteId": "35",
+    "screenId": "755061",
+    "name": "Screen 9 Cine Kids",
+    "number": 9,
+    "seatCount": 105
+  },
+  {
+    "siteId": "35",
+    "screenId": "755060",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 95
+  },
+  {
+    "siteId": "35",
+    "screenId": "755059",
+    "name": "Screen 7 CXC",
+    "number": 7,
+    "seatCount": 226
+  },
+  {
+    "siteId": "35",
+    "screenId": "755058",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 188
+  },
+  {
+    "siteId": "35",
+    "screenId": "755057",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 190
+  },
+  {
+    "siteId": "35",
+    "screenId": "755056",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 190
+  },
+  {
+    "siteId": "35",
+    "screenId": "755055",
+    "name": "Screen 3 CXC",
+    "number": 3,
+    "seatCount": 437
+  },
+  {
+    "siteId": "35",
+    "screenId": "755054",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 277
+  },
+  {
+    "siteId": "36",
+    "screenId": "755072",
+    "name": "Screen 10 VIP",
+    "number": 10,
+    "seatCount": 54
+  },
+  {
+    "siteId": "36",
+    "screenId": "755071",
+    "name": "Screen 9 VIP",
+    "number": 9,
+    "seatCount": 58
+  },
+  {
+    "siteId": "36",
+    "screenId": "755070",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 157
+  },
+  {
+    "siteId": "36",
+    "screenId": "755069",
+    "name": "Screen 7 4De",
+    "number": 7,
+    "seatCount": 108
+  },
+  {
+    "siteId": "36",
+    "screenId": "755068",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 231
+  },
+  {
+    "siteId": "36",
+    "screenId": "755067",
+    "name": "Screen 5 CXC",
+    "number": 5,
+    "seatCount": 231
+  },
+  {
+    "siteId": "36",
+    "screenId": "755066",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 191
+  },
+  {
+    "siteId": "36",
+    "screenId": "755065",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 192
+  },
+  {
+    "siteId": "36",
+    "screenId": "755064",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 146
+  },
+  {
+    "siteId": "36",
+    "screenId": "755063",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 113
+  },
+  {
+    "siteId": "37",
+    "screenId": "755075",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 69
+  },
+  {
+    "siteId": "37",
+    "screenId": "755074",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 103
+  },
+  {
+    "siteId": "37",
+    "screenId": "755073",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 132
+  },
+  {
+    "siteId": "3",
+    "screenId": "754802",
+    "name": "Imax",
+    "number": 13,
+    "seatCount": 423
+  },
+  {
+    "siteId": "3",
+    "screenId": "754801",
+    "name": "Screen 12",
+    "number": 12,
+    "seatCount": 79
+  },
+  {
+    "siteId": "3",
+    "screenId": "754800",
+    "name": "Screen 11",
+    "number": 11,
+    "seatCount": 78
+  },
+  {
+    "siteId": "3",
+    "screenId": "754799",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 100
+  },
+  {
+    "siteId": "3",
+    "screenId": "754798",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 100
+  },
+  {
+    "siteId": "3",
+    "screenId": "754797",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 154
+  },
+  {
+    "siteId": "3",
+    "screenId": "754796",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 157
+  },
+  {
+    "siteId": "3",
+    "screenId": "754795",
+    "name": "Screen 6 CXC",
+    "number": 6,
+    "seatCount": 249
+  },
+  {
+    "siteId": "3",
+    "screenId": "754794",
+    "name": "Screen 5 4DX",
+    "number": 5,
+    "seatCount": 120
+  },
+  {
+    "siteId": "3",
+    "screenId": "754793",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 200
+  },
+  {
+    "siteId": "40",
+    "screenId": "755112",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 260
+  },
+  {
+    "siteId": "40",
+    "screenId": "755111",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 257
+  },
+  {
+    "siteId": "40",
+    "screenId": "755110",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 205
+  },
+  {
+    "siteId": "40",
+    "screenId": "755109",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 169
+  },
+  {
+    "siteId": "40",
+    "screenId": "755108",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 121
+  },
+  {
+    "siteId": "40",
+    "screenId": "755107",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 131
+  },
+  {
+    "siteId": "40",
+    "screenId": "755106",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 205
+  },
+  {
+    "siteId": "40",
+    "screenId": "755105",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 278
+  },
+  {
+    "siteId": "40",
+    "screenId": "755104",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 348
+  },
+  {
+    "siteId": "40",
+    "screenId": "755103",
+    "name": "Screen 1 - CXC",
+    "number": 1,
+    "seatCount": 424
+  },
+  {
+    "siteId": "38",
+    "screenId": "755670",
+    "name": "Screen 11 IMAX",
+    "number": 11,
+    "seatCount": 361
+  },
+  {
+    "siteId": "38",
+    "screenId": "755092",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 114
+  },
+  {
+    "siteId": "38",
+    "screenId": "755091",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 70
+  },
+  {
+    "siteId": "38",
+    "screenId": "755090",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 70
+  },
+  {
+    "siteId": "38",
+    "screenId": "755089",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 115
+  },
+  {
+    "siteId": "38",
+    "screenId": "755088",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 119
+  },
+  {
+    "siteId": "38",
+    "screenId": "755087",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 119
+  },
+  {
+    "siteId": "38",
+    "screenId": "755086",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 115
+  },
+  {
+    "siteId": "38",
+    "screenId": "755085",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 70
+  },
+  {
+    "siteId": "38",
+    "screenId": "755084",
+    "name": "Screen 2 4DX",
+    "number": 2,
+    "seatCount": 127
+  },
+  {
+    "siteId": "44",
+    "screenId": "755152",
+    "name": "Screen 10 Cine Kids",
+    "number": 10,
+    "seatCount": 145
+  },
+  {
+    "siteId": "44",
+    "screenId": "755151",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 88
+  },
+  {
+    "siteId": "44",
+    "screenId": "755150",
+    "name": "Screen 8 CXC",
+    "number": 8,
+    "seatCount": 222
+  },
+  {
+    "siteId": "44",
+    "screenId": "755149",
+    "name": "Screen 7 CXC",
+    "number": 7,
+    "seatCount": 226
+  },
+  {
+    "siteId": "44",
+    "screenId": "755148",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 88
+  },
+  {
+    "siteId": "44",
+    "screenId": "755147",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 88
+  },
+  {
+    "siteId": "44",
+    "screenId": "755146",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 87
+  },
+  {
+    "siteId": "44",
+    "screenId": "755145",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 87
+  },
+  {
+    "siteId": "44",
+    "screenId": "755144",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 87
+  },
+  {
+    "siteId": "44",
+    "screenId": "755143",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 87
+  },
+  {
+    "siteId": "45",
+    "screenId": "755690",
+    "name": "Screen 15",
+    "number": 15,
+    "seatCount": 106
+  },
+  {
+    "siteId": "45",
+    "screenId": "755688",
+    "name": "Screen 14",
+    "number": 14,
+    "seatCount": 60
+  },
+  {
+    "siteId": "45",
+    "screenId": "755684",
+    "name": "Screen 13",
+    "number": 13,
+    "seatCount": 115
+  },
+  {
+    "siteId": "45",
+    "screenId": "755680",
+    "name": "Screen 12",
+    "number": 12,
+    "seatCount": 123
+  },
+  {
+    "siteId": "45",
+    "screenId": "755674",
+    "name": "Screen 11",
+    "number": 11,
+    "seatCount": 123
+  },
+  {
+    "siteId": "45",
+    "screenId": "755162",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 230
+  },
+  {
+    "siteId": "45",
+    "screenId": "755161",
+    "name": "Screen 9 CXC",
+    "number": 9,
+    "seatCount": 251
+  },
+  {
+    "siteId": "45",
+    "screenId": "755160",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 249
+  },
+  {
+    "siteId": "45",
+    "screenId": "755159",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 126
+  },
+  {
+    "siteId": "45",
+    "screenId": "755158",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 106
+  },
+  {
+    "siteId": "41",
+    "screenId": "755118",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 241
+  },
+  {
+    "siteId": "41",
+    "screenId": "755117",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 211
+  },
+  {
+    "siteId": "41",
+    "screenId": "755116",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 167
+  },
+  {
+    "siteId": "41",
+    "screenId": "755115",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 167
+  },
+  {
+    "siteId": "41",
+    "screenId": "755114",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 186
+  },
+  {
+    "siteId": "41",
+    "screenId": "755113",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 246
+  },
+  {
+    "siteId": "42",
+    "screenId": "755686",
+    "name": "Screen 14",
+    "number": 14,
+    "seatCount": 195
+  },
+  {
+    "siteId": "42",
+    "screenId": "755682",
+    "name": "Screen 13",
+    "number": 13,
+    "seatCount": 170
+  },
+  {
+    "siteId": "42",
+    "screenId": "755678",
+    "name": "Screen 12",
+    "number": 12,
+    "seatCount": 209
+  },
+  {
+    "siteId": "42",
+    "screenId": "755671",
+    "name": "Screen 11",
+    "number": 11,
+    "seatCount": 171
+  },
+  {
+    "siteId": "42",
+    "screenId": "755132",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 210
+  },
+  {
+    "siteId": "42",
+    "screenId": "755131",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 157
+  },
+  {
+    "siteId": "42",
+    "screenId": "755130",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 138
+  },
+  {
+    "siteId": "42",
+    "screenId": "755129",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 136
+  },
+  {
+    "siteId": "42",
+    "screenId": "755128",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 203
+  },
+  {
+    "siteId": "42",
+    "screenId": "755127",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 204
+  },
+  {
+    "siteId": "46",
+    "screenId": "755172",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 74
+  },
+  {
+    "siteId": "46",
+    "screenId": "755171",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 102
+  },
+  {
+    "siteId": "46",
+    "screenId": "755170",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 211
+  },
+  {
+    "siteId": "46",
+    "screenId": "755169",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 227
+  },
+  {
+    "siteId": "46",
+    "screenId": "755168",
+    "name": "Screen 6 4De",
+    "number": 6,
+    "seatCount": 96
+  },
+  {
+    "siteId": "46",
+    "screenId": "755167",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 224
+  },
+  {
+    "siteId": "46",
+    "screenId": "755166",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 325
+  },
+  {
+    "siteId": "46",
+    "screenId": "755165",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 197
+  },
+  {
+    "siteId": "46",
+    "screenId": "755164",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 180
+  },
+  {
+    "siteId": "46",
+    "screenId": "755163",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 242
+  },
+  {
+    "siteId": "47",
+    "screenId": "755178",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 178
+  },
+  {
+    "siteId": "47",
+    "screenId": "755177",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 170
+  },
+  {
+    "siteId": "47",
+    "screenId": "755176",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 190
+  },
+  {
+    "siteId": "47",
+    "screenId": "755175",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 190
+  },
+  {
+    "siteId": "47",
+    "screenId": "755174",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 348
+  },
+  {
+    "siteId": "47",
+    "screenId": "755173",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 425
+  },
+  {
+    "siteId": "48",
+    "screenId": "755691",
+    "name": "Screen 15",
+    "number": 15,
+    "seatCount": 128
+  },
+  {
+    "siteId": "48",
+    "screenId": "755689",
+    "name": "Screen 14",
+    "number": 14,
+    "seatCount": 101
+  },
+  {
+    "siteId": "48",
+    "screenId": "755685",
+    "name": "Screen 13",
+    "number": 13,
+    "seatCount": 88
+  },
+  {
+    "siteId": "48",
+    "screenId": "755681",
+    "name": "Screen 12",
+    "number": 12,
+    "seatCount": 195
+  },
+  {
+    "siteId": "48",
+    "screenId": "755675",
+    "name": "Screen 11",
+    "number": 11,
+    "seatCount": 106
+  },
+  {
+    "siteId": "48",
+    "screenId": "755192",
+    "name": "Screen 10",
+    "number": 10,
+    "seatCount": 112
+  },
+  {
+    "siteId": "48",
+    "screenId": "755191",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 229
+  },
+  {
+    "siteId": "48",
+    "screenId": "755190",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 214
+  },
+  {
+    "siteId": "48",
+    "screenId": "755189",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 486
+  },
+  {
+    "siteId": "49",
+    "screenId": "755199",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 164
+  },
+  {
+    "siteId": "49",
+    "screenId": "755198",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 139
+  },
+  {
+    "siteId": "49",
+    "screenId": "755197",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 120
+  },
+  {
+    "siteId": "49",
+    "screenId": "755196",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 174
+  },
+  {
+    "siteId": "49",
+    "screenId": "755195",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 177
+  },
+  {
+    "siteId": "49",
+    "screenId": "755194",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 166
+  },
+  {
+    "siteId": "49",
+    "screenId": "755193",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 253
+  },
+  {
+    "siteId": "50",
+    "screenId": "755210",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 65
+  },
+  {
+    "siteId": "50",
+    "screenId": "755209",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 66
+  },
+  {
+    "siteId": "50",
+    "screenId": "755208",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 67
+  },
+  {
+    "siteId": "50",
+    "screenId": "755207",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 144
+  },
+  {
+    "siteId": "50",
+    "screenId": "755206",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 95
+  },
+  {
+    "siteId": "50",
+    "screenId": "755205",
+    "name": "Screen  3 ",
+    "number": 3,
+    "seatCount": 160
+  },
+  {
+    "siteId": "50",
+    "screenId": "755204",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 58
+  },
+  {
+    "siteId": "50",
+    "screenId": "755203",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 82
+  },
+  {
+    "siteId": "51",
+    "screenId": "755221",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 212
+  },
+  {
+    "siteId": "51",
+    "screenId": "755220",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 169
+  },
+  {
+    "siteId": "51",
+    "screenId": "755219",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 237
+  },
+  {
+    "siteId": "51",
+    "screenId": "755218",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 251
+  },
+  {
+    "siteId": "51",
+    "screenId": "755217",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 261
+  },
+  {
+    "siteId": "51",
+    "screenId": "755216",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 346
+  },
+  {
+    "siteId": "51",
+    "screenId": "755215",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 350
+  },
+  {
+    "siteId": "51",
+    "screenId": "755214",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 147
+  },
+  {
+    "siteId": "51",
+    "screenId": "755213",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 186
+  },
+  {
+    "siteId": "52",
+    "screenId": "755229",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 159
+  },
+  {
+    "siteId": "52",
+    "screenId": "755228",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 158
+  },
+  {
+    "siteId": "52",
+    "screenId": "755227",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 159
+  },
+  {
+    "siteId": "52",
+    "screenId": "755226",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 170
+  },
+  {
+    "siteId": "52",
+    "screenId": "755225",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 208
+  },
+  {
+    "siteId": "52",
+    "screenId": "755224",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 208
+  },
+  {
+    "siteId": "52",
+    "screenId": "755223",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 208
+  },
+  {
+    "siteId": "53",
+    "screenId": "755239",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 175
+  },
+  {
+    "siteId": "53",
+    "screenId": "755238",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 146
+  },
+  {
+    "siteId": "53",
+    "screenId": "755237",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 136
+  },
+  {
+    "siteId": "53",
+    "screenId": "755236",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 159
+  },
+  {
+    "siteId": "53",
+    "screenId": "755235",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 271
+  },
+  {
+    "siteId": "53",
+    "screenId": "755234",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 351
+  },
+  {
+    "siteId": "53",
+    "screenId": "755233",
+    "name": "Screen 1",
+    "number": 1,
+    "seatCount": 292
+  },
+  {
+    "siteId": "54",
+    "screenId": "755676",
+    "name": "Screen 11",
+    "number": 11,
+    "seatCount": 328
+  },
+  {
+    "siteId": "54",
+    "screenId": "755252",
+    "name": "Screen 10 - 4De",
+    "number": 10,
+    "seatCount": 102
+  },
+  {
+    "siteId": "54",
+    "screenId": "755251",
+    "name": "Screen 9",
+    "number": 9,
+    "seatCount": 145
+  },
+  {
+    "siteId": "54",
+    "screenId": "755250",
+    "name": "Screen 8",
+    "number": 8,
+    "seatCount": 131
+  },
+  {
+    "siteId": "54",
+    "screenId": "755249",
+    "name": "Screen 7",
+    "number": 7,
+    "seatCount": 131
+  },
+  {
+    "siteId": "54",
+    "screenId": "755248",
+    "name": "Screen 6",
+    "number": 6,
+    "seatCount": 314
+  },
+  {
+    "siteId": "54",
+    "screenId": "755247",
+    "name": "Screen 5",
+    "number": 5,
+    "seatCount": 145
+  },
+  {
+    "siteId": "54",
+    "screenId": "755246",
+    "name": "Screen 4",
+    "number": 4,
+    "seatCount": 145
+  },
+  {
+    "siteId": "54",
+    "screenId": "755245",
+    "name": "Screen 3",
+    "number": 3,
+    "seatCount": 145
+  },
+  {
+    "siteId": "54",
+    "screenId": "755244",
+    "name": "Screen 2",
+    "number": 2,
+    "seatCount": 139
+  }
+]
