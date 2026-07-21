@@ -1,4 +1,4 @@
-# caribbeancinemas-go
+# Caribbean Cinemas CLI
 
 A read-only Go client and CLI for [Caribbean Cinemas](https://home.caribbeancinemas.com)
 (Puerto Rico). It wraps the theater chain's public GraphQL API to browse movies,
@@ -17,10 +17,10 @@ web app.
 
 ## Install the CLI
 
-Once the repository is published, install the latest release with:
+Install the latest version with:
 
 ```sh
-go install github.com/jasielrt/caribbeancinemas-go/cmd/cinemas@latest
+go install github.com/jasielrt95/caribbean-cinemas-cli/cmd/cinemas@latest
 ```
 
 Go installs the executable into `GOBIN`, or into `GOPATH/bin` when `GOBIN` is
@@ -57,7 +57,7 @@ cinemas --version
 From an existing Go module:
 
 ```sh
-go get github.com/jasielrt/caribbeancinemas-go@latest
+go get github.com/jasielrt95/caribbean-cinemas-cli@latest
 ```
 
 ## Library quick start

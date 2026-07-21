@@ -1,4 +1,4 @@
-module github.com/jasielrt/caribbeancinemas-go
+module github.com/jasielrt95/caribbean-cinemas-cli
 
 go 1.26.5
 

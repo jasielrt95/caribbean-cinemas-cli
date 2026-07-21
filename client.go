@@ -20,7 +20,7 @@ const (
 	// header-sensitive queries (e.g. Screens, TicketTypes) when no specific
 	// theater is given.
 	DefaultSiteID    = "96"
-	DefaultUserAgent = "caribbeancinemas-go/0.1 (+https://github.com/jasielrt/caribbeancinemas-go)"
+	DefaultUserAgent = "caribbean-cinemas-cli/0.1 (+https://github.com/jasielrt95/caribbean-cinemas-cli)"
 )
 
 // Client is a read-only client for the Caribbean Cinemas GraphQL API. It is safe

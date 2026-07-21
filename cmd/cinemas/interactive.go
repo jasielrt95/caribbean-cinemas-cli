@@ -13,7 +13,7 @@ import (
 	"github.com/charmbracelet/bubbles/spinner"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	cc "github.com/jasielrt/caribbeancinemas-go"
+	cc "github.com/jasielrt95/caribbean-cinemas-cli"
 	"github.com/spf13/cobra"
 )
 

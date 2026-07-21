@@ -8,7 +8,7 @@ import (
 	"text/tabwriter"
 	"time"
 
-	cc "github.com/jasielrt/caribbeancinemas-go"
+	cc "github.com/jasielrt95/caribbean-cinemas-cli"
 	"github.com/spf13/cobra"
 )
 
