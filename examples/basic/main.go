@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	cc "github.com/jasielrt/caribbeancinemas-go"
+	cc "github.com/jasielrt95/caribbean-cinemas-cli"
 )
 
 func main() {

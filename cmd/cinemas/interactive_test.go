@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	cc "github.com/jasielrt/caribbeancinemas-go"
+	cc "github.com/jasielrt95/caribbean-cinemas-cli"
 )
 
 func TestBrowserOpenedMessage(t *testing.T) {

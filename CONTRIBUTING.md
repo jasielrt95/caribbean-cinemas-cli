@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve `caribbeancinemas-go`.
+Thanks for helping improve Caribbean Cinemas CLI.
 
 ## Development
 
