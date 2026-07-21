@@ -24,4 +24,4 @@ and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 - Purchasing remains on the official Caribbean Cinemas website. The client does
   not accept credentials, hold seats, create orders, or process payments.
 
-[Unreleased]: https://github.com/jasielrt/caribbeancinemas-go/commits/main
+[Unreleased]: https://github.com/jasielrt95/caribbean-cinemas-cli/commits/main
